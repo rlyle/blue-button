@@ -1,6 +1,6 @@
 {
   "name": "@rlyle1179/blue-button",
-  "version": "1.10.11",
+  "version": "1.10.12",
   "description": "Blue Button (CCDA, C32, CMS) to JSON Parser.",
   "main": "./index.js",
   "directories": {
